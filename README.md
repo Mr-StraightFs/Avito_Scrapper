@@ -1,4 +1,3 @@
-# Avito_Scrapper
 
 # Avito Auto Scraper
 
